@@ -17,7 +17,7 @@ function Calculadora(numero1, numero2, operador) {
           resultado = num1 / num2
           break;
       case "*":
-          resultado = num1 * num 2
+          resultado = num1 * num2
           break;
       case "e":
           let contador = 1
